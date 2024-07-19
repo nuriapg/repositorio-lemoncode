@@ -7,6 +7,13 @@ Este repositorio contiene las prácticas realizadas para el laboratorio de coman
 3. **Commit y Push:** Hicimos un commit y subimos los cambios a GitHub.
 4. **Creación de la rama 'development':** Creamos una nueva rama y realizamos cambios en ella.
 5. **Merge de ramas:** Realizamos el merge de la rama 'development' con la rama principal.
+# Laboratorio de Git
+
+
+## Capturas de Pantalla
+
+![Captura 1](imagenes/Captura%201.png)
+![Captura 2](imagenes/Captura%202.png)
 
 # Repositorio Lemon Code
 Este es un cambio en la rama development
