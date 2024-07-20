@@ -12,8 +12,8 @@ Este repositorio contiene las prácticas realizadas para el laboratorio de coman
 
 ## Capturas de Pantalla
 
-![Captura 1](imagenes/captura1.png)
-![Captura 2](imagenes/captura2.png)
+![Captura 1](repositorio-lemoncode/imagenes/captura1.png)
+![Captura 2](repositorio-lemoncode/imagenes/captura2.png)
 
 # Repositorio Lemon Code
 Este es un cambio en la rama development
