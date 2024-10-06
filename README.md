@@ -12,5 +12,5 @@ Este laboratorio tiene como objetivo practicar los comandos básicos de Git.
 
 ### Capturas de pantalla
 - Se incluyeron capturas de pantalla que muestran los pasos seguidos durante el laboratorio.
-![Inicializando el repositorio](capturas/Captura1.png) ![Subiendo el repositorio a GitHub](capturas/Captura2.png) ![Commit y push](capturas/Captura3.png) ![Commit y push](capturas/Captura4.png) ![Commit y push](capturas/Captura5.png)![Creación de la rama development](capturas/Captura6.png) ![Realizando el merge](capturas/Captura7.png)
+![Inicializando el repositorio](capturas/Captura1.png) ![Subiendo el repositorio a GitHub](capturas/Captura2.png) ![Commit y push](capturas/Captura3.png) ![Commit y push](capturas/Captura4.png) ![Commit y push](capturas/Captura5.png) ![Creación de la rama development](capturas/Captura6.png) ![Realizando el merge](capturas/Captura7.png)
 
